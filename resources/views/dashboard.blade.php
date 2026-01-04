@@ -7,7 +7,6 @@
     <title>XYZ | Site</title>
 </head>
 <body>
-    <h1>This is dashboard from view</h1>
-    <h2>Hello world from ecommerce</h2>
+    <h2>Can i complete my ecommerce site in this upcomming week</h2>
 </body>
 </html>
