@@ -7,6 +7,5 @@
     <title>XYZ | Site</title>
 </head>
 <body>
-    <h2>Can i complete my ecommerce site in this upcomming week</h2>
 </body>
 </html>
